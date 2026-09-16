@@ -1,0 +1,23 @@
+{
+  "repo": "ansys-fluent-full",
+  "product": "Ansys Fluent Full",
+  "kind": "engineering",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "cfd",
+  "topics": [
+    "ansys-fluent",
+    "cfd-solver-desktop",
+    "mesh-and-post",
+    "fluent-windows",
+    "flow-analysis-2026",
+    "how-to-install-fluent",
+    "fluent-desktop-package",
+    "cfd-report-suite",
+    "boundary-condition-tools",
+    "ansys-cfd-suite"
+  ],
+  "site": "toolix.me"
+}
